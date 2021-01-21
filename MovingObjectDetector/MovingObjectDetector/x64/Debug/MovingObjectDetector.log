@@ -1,0 +1,38 @@
+﻿  ProbModel.cpp
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(168,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(198,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(233,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(234,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(246,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(247,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(260,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(261,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(268,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(269,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(291,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(292,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(317,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(318,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(344,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(350,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(395,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(396,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(423,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(430,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(439,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(446,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(454,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(455,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(475,50): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(477,50): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=unsigned char
+          ]
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(491,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(498,92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(503,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(513,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(520,92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\MovingObjectDetector\ProbModel.cpp(525,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MovingObjectDetector.vcxproj -> D:\Alberto\Documents\Programming\C++\Final_Project\MovingObjectDetector\x64\Debug\MovingObjectDetector.exe
